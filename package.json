@@ -1,6 +1,6 @@
 {
   "homepage": "https://sirrsolaire.github.io/rock-paper-scissors-react ",
-  "name": "tic-tac-toe",
+  "name": "rock-paper-scissors",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
